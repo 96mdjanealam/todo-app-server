@@ -17,10 +17,10 @@ To set up the project locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/todo-app-client.git
+git clone https://github.com/your-username/todo-app-server.git
 
 # Navigate into the project directory
-cd todo-app-client
+cd todo-app-server
 
 # Install dependencies
 npm install
