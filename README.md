@@ -1,5 +1,7 @@
 # Todo App Server
 
+[Click here to view the live project](https://simple-firebase-39f4b.web.app)
+
 A simple and efficient **To-Do App** client built with **React**, **Vite**, and **Tailwind CSS**. This project serves as the frontend for managing to-do tasks with drag-and-drop functionality and Firebase integration.
 
 ## ✨ Features
